@@ -30,7 +30,7 @@ Exercícios
     p
 
     hr
-    
+
     br
 
 [ps:  Não se esqueça das instruções obrigatórias:]
@@ -46,9 +46,14 @@ Maecenas congue ex blandit, commodo dui vitae, cursus ex. In volutpat auctor acc
 Sed ultrices dictum orci tincidunt tincidunt. Donec tincidunt orci ac blandit vehicula. Nullam rutrum viverra ex quis tempor. Suspendisse non eros at massa bibendum congue eu et nisl. Ut blandit aliquam tortor, sed rutrum mauris pulvinar quis. Donec eros sem, tincidunt vitae dolor sed, molestie rhoncus augue. Curabitur ornare accumsan diam a eleifend. Suspendisse et tellus leo. Sed a ligula non mi pharetra fringilla sit amet at turpis. Duis tristique facilisis dolor. Aenean eget auctor velit, ut condimentum tellus. In ac dictum orci, in bibendum orci. Morbi vel sapien eu massa condimentum efficitur. Morbi imperdiet urna purus, et pharetra massa iaculis id. Praesent commodo justo id metus auctor fringilla. Nam gravida sapien urna, luctus accumsan orci vehicula nec. 
 
 b. Abrir o Visual Studio Code.
+
 c. Criar um arquivo chamado index.html
+
 d. Atualizar o arquivo seguindo as orientações já passadas.
+
 e. Realizar no mínimo 2 commits.
+
 f. Realizar push.
+
 g. Criar o pull-request no repositório remoto.
 

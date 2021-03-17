@@ -4,20 +4,20 @@ Exercício para fixação!
 Exercícios
 
 1 - Utilizando as tags abaixo e seus atributos:
-html
-head
-meta
-title
-body
-h1
-h2
-h3
-h4
-h5
-h6
-p
-hr
-br
+    html
+    head
+    meta
+    title
+    body
+    h1
+    h2
+    h3
+    h4
+    h5
+    h6
+    p
+    hr
+    br
 
 [ps:  Não se esqueça das instruções obrigatórias:]
 

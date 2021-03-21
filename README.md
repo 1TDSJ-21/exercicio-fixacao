@@ -3,7 +3,7 @@ Exercício para fixação!
 
 Exercícios
 
-1 - Utilizando as tags abaixo e seus atributos:
+1 - Utilizando as tags abaixo e seus atributos: 
 
     html
 
